@@ -4,13 +4,13 @@
 # PyTorch Tutorials
 
 
-## Part I - Learning PyTorch
+## Learning PyTorch
 
-  <b>01 - Deep Learning with PyTorch: A 60 Minute Blitz</b><br>
-  - [What is PyTorch?]()
-  - [Autograd]()
-  - [Neural Networks]()
-  - [Training a Classifier]()
+  - <b>01 - Deep Learning with PyTorch: A 60 Minute Blitz</b><br>
+    - [What is PyTorch?]()
+    - [Autograd]()
+    - [Neural Networks]()
+    - [Training a Classifier]()
 
   <b>02 - Learning PyTorch with Examples</b><br>
 - [Tensors, Autograd, and nn Module]()
