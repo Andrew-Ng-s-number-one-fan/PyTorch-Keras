@@ -8,27 +8,27 @@
 
 <b>01 - Deep Learning with PyTorch: A 60 Minute Blitz</b><br>
 - [What is PyTorch?]()
-- [[Autograd]()]
-- [[Neural Networks]()]
-- [[Training a Classifier]()]
+- [Autograd]()
+- [Neural Networks]()
+- [Training a Classifier]()
 
 <b>02 - Learning PyTorch with Examples</b><br>
-[[Tensors, Autograd, and nn Module]()]
+- [Tensors, Autograd, and nn Module]()
 
 <b>03 - What is torch.nn really?</b><br>
-[[Neural Net from Scratch]()]
-[[Using torch.nn.functional]()]
+- [Neural Net from Scratch]()
+- [Using torch.nn.functional]()
 
 04 - Visualizing Models, Data, and Training with TensorBoard
 
 <b>05 - Writing Custom Datasets, DataLoaders and Transforms</b><br>
-[[DataLoaders and Transforms]()]
+- [DataLoaders and Transforms]()
 
 
 ### Image/Video
 
 <b>01 - TorchVision Object Detection Finetuning Tutorial</b><br>
-[[Finetuning Mask R-CNN in the PennFudan Database for Pedestrian Detection and Segmentation]()]
+- [Finetuning Mask R-CNN in the PennFudan Database for Pedestrian Detection and Segmentation]()
 
 02 - Transfer Learning for Computer Vision Tutorial
 
