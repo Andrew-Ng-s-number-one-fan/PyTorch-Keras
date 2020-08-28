@@ -4,7 +4,7 @@
 # PyTorch Tutorials
 
 
-### I. Learning PyTorch
+## Part I. Learning PyTorch
 
 <b>01 - Deep Learning with PyTorch: A 60 Minute Blitz</b><br>
 - [What is PyTorch?]()
@@ -25,7 +25,7 @@
 - [DataLoaders and Transforms]()
 
 
-### II. Image/Video
+## Part II. Image/Video
 
 <b>01 - TorchVision Object Detection Finetuning Tutorial</b><br>
 - [Finetuning Mask R-CNN in the PennFudan Database for Pedestrian Detection and Segmentation]()
@@ -37,7 +37,7 @@
 04 - DCGAN Tutorial
 
 
-### III. Text
+## Part III. Text
 
 01 - Sequence-to-Sequence Modeling with nn.Transformer and TorchText
 
@@ -52,17 +52,17 @@
 06 - Language Translation with TorchText
 
 
-### IV. Audio
+## Part IV. Audio
 
 01 - torchaudio Tutorial
 
 
-### V. Reinforcement Learning
+## Part V. Reinforcement Learning
 
 01 - Reinforcement Learning (DQN) Tutorial
 
 
-### VI. Model Optimization
+## Part VI. Model Optimization
 
 01 - Pruning Tutorial
 
@@ -75,7 +75,7 @@
 05 - (experimental) Quantized Transfer Learning for Computer Vision Tutorial
 
 
-### VII. Parallel and Distributed Training
+## Part VII. Parallel and Distributed Training
 
 01 - Single-Machine Model Parallel Best Practices
 
