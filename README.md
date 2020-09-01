@@ -13,7 +13,7 @@
   - [Training a Classifier]()
 
 - <b>02 - Learning PyTorch with Examples</b><br>
-  - [Tensors, Autograd, and nn Module]()
+  - [Tensors, Autograd, and nn Module](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Foundations/learn_learning_pytorch_with_examples.ipynb)
 
 - <b>03 - What is torch.nn really?</b><br>
   - [Neural Net from Scratch]()
