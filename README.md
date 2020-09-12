@@ -7,22 +7,23 @@
 ## Learning PyTorch
 
 - <b>01 - Deep Learning with PyTorch: A 60 Minute Blitz</b><br>
-  - [What is PyTorch?]()
-  - [Autograd]()
-  - [Neural Networks]()
-  - [Training a Classifier]()
+  - [What is PyTorch?](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Foundations/dl_with_pytorch_60_min_biltz/01_what_is_pytorch.ipynb)
+  - [Autograd](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Foundations/dl_with_pytorch_60_min_biltz/02_autograd.ipynb)
+  - [Neural Networks](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Foundations/dl_with_pytorch_60_min_biltz/03_neural_nets.ipynb)
+  - [Training a Classifier](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Foundations/dl_with_pytorch_60_min_biltz/04_training_classifiers.ipynb)
 
 - <b>02 - Learning PyTorch with Examples</b><br>
-  - [Tensors, Autograd, and nn Module](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Foundations/learn_learning_pytorch_with_examples.ipynb)
+  - [Tensors, Autograd, and nn Module](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Foundations/learning_pytorch_with_examples/learn_learning_pytorch_with_examples.ipynb)
 
 - <b>03 - What is torch.nn really?</b><br>
   - [Neural Net from Scratch]()
   - [Using torch.nn.functional]()
 
-- 04 - Visualizing Models, Data, and Training with TensorBoard
+- <b>04 - Visualizing Models, Data, and Training with TensorBoard</b><br>
+  - [TensorBoard Tutorial](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Foundations/visualizing_tensorboard/tensorboard.ipynb)
 
 - <b>05 - Writing Custom Datasets, DataLoaders and Transforms</b><br>
-  - [DataLoaders and Transforms]()
+  - [Custom DataLoaders and Transforms]()
 
 
 ## Image/Video
@@ -52,7 +53,7 @@
 - 06 - Language Translation with TorchText
 
 - <b>07 - Transformer</b><br>
-  - [Transformer Tutorial]()
+  - [Transformer Tutorial](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Texts/transformer_tutorial/transformer.ipynb)
 
 
 ## Audio
@@ -69,13 +70,13 @@
 
 - 01 - Pruning Tutorial
 
-- 02 - (experimental) Dynamic Quantization on an LSTM Word Language Model
+- 02 - (Experimental) Dynamic Quantization on an LSTM Word Language Model
 
-- 03 - (experimental) Dynamic Quantization on BERT
+- 03 - (Experimental) Dynamic Quantization on BERT
 
-- 04 - (experimental) Static Quantization with Eager Mode in PyTorch
+- 04 - (Experimental) Static Quantization with Eager Mode in PyTorch
 
-- 05 - (experimental) Quantized Transfer Learning for Computer Vision Tutorial
+- 05 - (Experimental) Quantized Transfer Learning for Computer Vision Tutorial
 
 
 ## Parallel and Distributed Training
