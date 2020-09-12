@@ -57,7 +57,7 @@
 
 ## Audio
 
-- 01 - torchaudio Tutorial
+- 01 - TorchAudio Tutorial
 
 
 ## Reinforcement Learning
@@ -88,7 +88,7 @@
 
 - 04 - Getting Started with Distributed RPC Framework
 
-- 05 - (advanced) PyTorch 1.0 Distributed Trainer with Amazon AWS
+- 05 - (Advanced) PyTorch 1.0 Distributed Trainer with Amazon AWS
 
 - 06 - Implementing a Parameter Server Using Distributed RPC Framework
 
