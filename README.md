@@ -39,7 +39,7 @@
 
 - <b>05 - Domain Adaptation Tutorial</b><br>
   - [Introduction to Few-Shot Learning and Meta Learning]()
-  - [Siamese Networks Tutorial]()
+  - [Siamese Networks Tutorial](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/domain_adaptation/siamese_net_tutorial/keras_siamese_net.ipynb)
 
 
 ## Text
