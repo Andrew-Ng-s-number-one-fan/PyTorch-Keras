@@ -36,8 +36,8 @@
 - 03 - Adversarial Example Generation
 
 - <b>04 - Generative Adversarial Networks</b><br>
-  - [GANs in PyTorch]()
-  - [GANs in Keras]()
+  - [GAN in PyTorch]()
+  - [GAN in Keras]()
 
 - 05 - DCGAN Tutorial
 
