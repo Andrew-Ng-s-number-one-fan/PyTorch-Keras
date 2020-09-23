@@ -35,7 +35,7 @@
 
 - 03 - Adversarial Example Generation
 
-- 04 - Generative Adversarial Networks
+- <b>04 - Generative Adversarial Networks</b><br>
   - [GAN in PyTorch]()
   - [GAN in Keras]()
 
