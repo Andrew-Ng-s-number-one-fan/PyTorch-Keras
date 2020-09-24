@@ -39,6 +39,7 @@
 - <b>04 - Generative Adversarial Nets</b><br>
   - [GAN in PyTorch](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/generative_adversarial_nets/gan_in_pytorch.ipynb)
   - [GAN in Keras](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/generative_adversarial_nets/gan_in_keras.ipynb)
+  - [Conditional GAN in Keras](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/generative_adversarial_nets/conditional_gan_in_keras.ipynb)
 
 - 05 - DCGAN Tutorial
 
