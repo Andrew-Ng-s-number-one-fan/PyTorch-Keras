@@ -28,11 +28,12 @@
 
 ## Image/Video
 
-- <b>01 - TorchVision Object Detection Finetuning Tutorial</b><br>
+- <b>01 - Torchvision Object Detection Finetuning Tutorial</b><br>
   - [Finetuning Mask R-CNN in the PennFudan Database for Pedestrian Detection and Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/torchvision_object_detection_finetuning/image_torchvision_object_detection_finetuning.ipynb)
 
-- <b>02 - Transfer Learning for Computer Vision Tutorial</b><br>
+- <b>02 - Transfer Learning for Computer Vision</b><br>
   - [Train a CNN for Image Classification using Transfer Learning]()
+  - [Quantized Transfer Learning for Computer Vision Tutorial]()
 
 - 03 - Adversarial Example Generation
 
