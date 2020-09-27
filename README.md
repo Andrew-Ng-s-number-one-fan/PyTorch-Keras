@@ -49,6 +49,7 @@
   - [Introduction to Few-Shot Learning and Meta Learning](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/domain_adaptation/intro_few_shot_meta_learning/intro_few_shot_meta_learning.ipynb)
   - Siamese Networks Tutorial (PyTorch)
   - [Siamese Networks Tutorial (Keras)](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/domain_adaptation/siamese_net_tutorial/keras_siamese_net.ipynb)
+  - [Advances in Few-Shot Learning: A Guided Tour]()
   - [Advances in Few-Shot Learning: Reproducing Results in PyTorch]()
 
 
