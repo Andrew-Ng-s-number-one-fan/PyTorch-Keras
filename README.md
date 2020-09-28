@@ -72,7 +72,7 @@
 
 - 06 - Language Translation with TorchText
 
-- <b>07 - Transformer</b><br>
+- <b>07 - Transformers</b><br>
   - [Transformer Tutorial](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Texts/transformer_tutorial/transformer.ipynb)
 
 
