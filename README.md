@@ -56,6 +56,7 @@
   - [Matching Networks: A Differentiable Nearest-Neighbours Classifier]()
   - [Prototypical Networks: Learning Prototypical Representations]()
   - [Model-Agnostic Meta-Learning: Learning to Fine-Tune]()
+  - [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks]()
 
 
 ## Text
