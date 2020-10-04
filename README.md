@@ -35,7 +35,8 @@
   - [Train a CNN for Image Classification using Transfer Learning]()
   - [Quantized Transfer Learning for Computer Vision Tutorial]()
 
-- 03 - Adversarial Example Generation
+- <b>03 - Adversarial Example Generation</b><br>
+  - [FPSM: Explaining and Harnessing Adversarial Examples](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/adversarial_example_generation/adversarial_example_generation.ipynb)
 
 - <b>04 - Generative Adversarial Nets</b><br>
   - [GAN in PyTorch](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/generative_adversarial_nets/gan_in_pytorch.ipynb)
