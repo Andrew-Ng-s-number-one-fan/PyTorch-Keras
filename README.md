@@ -1,7 +1,7 @@
-|![image](https://github.com/Royal-526/PyTorch-Tutorials/blob/master/pytorch.png)|
+|![image](https://github.com/Royal-526/PyTorch-Tutorials/blob/master/pytorch-keras.png)|
 |---|
 
-# PyTorch Tutorials
+# PyTorch & Keras Tutorials
 
 
 ## Learning PyTorch
