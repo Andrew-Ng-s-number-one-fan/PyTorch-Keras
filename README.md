@@ -1,4 +1,4 @@
-|![image](https://github.com/Royal-526/PyTorch-Tutorials/blob/master/pytorch-keras.png)|
+|![image](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/pytorch-keras.png)|
 |---|
 
 # PyTorch & Keras Tutorials
@@ -7,20 +7,20 @@
 ## Learning PyTorch
 
 - <b>01 - Deep Learning with PyTorch: A 60 Minute Blitz</b><br>
-  - [What is PyTorch?](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Foundations/dl_with_pytorch_60_min_biltz/01_what_is_pytorch.ipynb)
-  - [Autograd](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Foundations/dl_with_pytorch_60_min_biltz/02_autograd.ipynb)
-  - [Neural Networks](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Foundations/dl_with_pytorch_60_min_biltz/03_neural_nets.ipynb)
-  - [Training a Classifier](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Foundations/dl_with_pytorch_60_min_biltz/04_training_classifiers.ipynb)
+  - [What is PyTorch?](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Foundations/dl_with_pytorch_60_min_biltz/01_what_is_pytorch.ipynb)
+  - [Autograd](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Foundations/dl_with_pytorch_60_min_biltz/02_autograd.ipynb)
+  - [Neural Networks](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Foundations/dl_with_pytorch_60_min_biltz/03_neural_nets.ipynb)
+  - [Training a Classifier](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Foundations/dl_with_pytorch_60_min_biltz/04_training_classifiers.ipynb)
 
 - <b>02 - Learning PyTorch with Examples</b><br>
-  - [Tensors, Autograd, and nn Module](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Foundations/learning_pytorch_with_examples/learn_learning_pytorch_with_examples.ipynb)
+  - [Tensors, Autograd, and nn Module](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Foundations/learning_pytorch_with_examples/learn_learning_pytorch_with_examples.ipynb)
 
 - <b>03 - What is torch.nn really?</b><br>
   - [Neural Net from Scratch](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Foundations/what_is_torch_nn/01_neural_nets_from_scratch.ipynb)
   - [Using torch.nn.functional](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Foundations/what_is_torch_nn/02_torch_nn_functional.ipynb)
 
 - <b>04 - Visualizing Models, Data, and Training with TensorBoard</b><br>
-  - [TensorBoard Tutorial](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Foundations/visualizing_tensorboard/tensorboard.ipynb)
+  - [TensorBoard Tutorial](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Foundations/visualizing_tensorboard/tensorboard.ipynb)
 
 - <b>05 - Writing Custom Datasets, DataLoaders and Transforms</b><br>
   - [Custom DataLoaders and Transforms]()
@@ -36,18 +36,18 @@
   - [Quantized Transfer Learning for Computer Vision Tutorial]()
 
 - <b>03 - Adversarial Example Generation</b><br>
-  - [FPSM: Explaining and Harnessing Adversarial Examples](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/adversarial_example_generation/adversarial_example_generation.ipynb)
+  - [FPSM: Explaining and Harnessing Adversarial Examples](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Images/adversarial_example_generation/adversarial_example_generation.ipynb)
 
 - <b>04 - Generative Adversarial Nets</b><br>
-  - [GAN in PyTorch](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/generative_adversarial_nets/gan_in_pytorch.ipynb)
-  - [GAN in Keras](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/generative_adversarial_nets/gan_in_keras.ipynb)
-  - [Conditional GAN in Keras](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/generative_adversarial_nets/conditional_gan_in_keras.ipynb)
-  - [Wasserstein GAN in PyTorch](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/generative_adversarial_nets/wgan_in_pytorch.ipynb)
+  - [GAN in PyTorch](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Images/generative_adversarial_nets/gan_in_pytorch.ipynb)
+  - [GAN in Keras](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Images/generative_adversarial_nets/gan_in_keras.ipynb)
+  - [Conditional GAN in Keras](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Images/generative_adversarial_nets/conditional_gan_in_keras.ipynb)
+  - [Wasserstein GAN in PyTorch](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Images/generative_adversarial_nets/wgan_in_pytorch.ipynb)
 
 - 05 - DCGAN Tutorial
 
 - <b>06 - Domain Adaptation Tutorial</b><br>
-  - [Introduction to Few-Shot Learning and Meta Learning](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/domain_adaptation/intro_few_shot_meta_learning/intro_few_shot_meta_learning.ipynb)
+  - [Introduction to Few-Shot Learning and Meta Learning](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Images/domain_adaptation/intro_few_shot_meta_learning/intro_few_shot_meta_learning.ipynb)
   - Siamese Networks Tutorial (PyTorch)
   - [Siamese Networks Tutorial (Keras)](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/domain_adaptation/siamese_net_tutorial/keras_siamese_net.ipynb)
   
@@ -78,7 +78,7 @@
 - 06 - Language Translation with TorchText
 
 - <b>07 - Transformers</b><br>
-  - [Transformer Tutorial](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Texts/transformer_tutorial/transformer.ipynb)
+  - [Transformer Tutorial](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Texts/transformer_tutorial/transformer.ipynb)
 
 
 ## Audio
