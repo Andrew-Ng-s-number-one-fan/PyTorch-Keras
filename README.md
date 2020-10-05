@@ -58,6 +58,9 @@
   - [Prototypical Networks: Learning Prototypical Representations]()
   - [Model-Agnostic Meta-Learning: Learning to Fine-Tune]()
   - [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks]()
+  
+- <b>08 - Modules for Convolutional Neural Nets</b><br>
+  - [SENet: Squeeze-and-Excitation Networks]()
 
 
 ## Text
