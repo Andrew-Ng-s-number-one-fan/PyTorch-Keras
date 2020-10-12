@@ -56,10 +56,12 @@
   - [Advances in Few-Shot Learning: Reproducing Results in PyTorch]()
   - [Matching Networks: A Differentiable Nearest-Neighbours Classifier]()
   - [Prototypical Networks: Learning Prototypical Representations]()
-  - [Model-Agnostic Meta-Learning: Learning to Fine-Tune]()
   - [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks]()
+ 
+- <b>08 - Meta-Learning Models</b><br>
+  - [Sine Wave Regression with MAML and Reptile]()
   
-- <b>08 - Modules for Convolutional Neural Nets</b><br>
+- <b>09 - Modules for Convolutional Neural Nets</b><br>
   - [SENet: Squeeze-and-Excitation Networks]()
 
 
