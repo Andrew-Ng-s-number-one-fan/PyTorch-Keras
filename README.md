@@ -60,6 +60,7 @@
  
 - <b>08 - Meta-Learning Models</b><br>
   - [Sine Wave Regression with MAML and Reptile]()
+  - [Few-Shot Learning with Reptile in Keras]()
   
 - <b>09 - Modules for Convolutional Neural Nets</b><br>
   - [SENet: Squeeze-and-Excitation Networks]()
