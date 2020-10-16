@@ -32,8 +32,8 @@
   - [Finetuning Mask R-CNN in the PennFudan Database for Pedestrian Detection and Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/torchvision_object_detection_finetuning/image_torchvision_object_detection_finetuning.ipynb)
 
 - <b>02 - Transfer Learning for Computer Vision</b><br>
-  - [Train a CNN for Image Classification using Transfer Learning]()
-  - [Quantized Transfer Learning for Computer Vision Tutorial]()
+  - [Train a CNN for Image Classification using Transfer Learning](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Images/transfer_learning_for_cv/train_a_cnn_for_image_classification/transfer_learning_for_computer_vision_tutorial.ipynb)
+  - [Quantized Transfer Learning for Computer Vision Tutorial](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Images/transfer_learning_for_cv/quantized_transfer_learning/quantized_transfer_learning_for_computer_vision_tutorial.ipynb)
 
 - <b>03 - Adversarial Example Generation</b><br>
   - [FPSM: Explaining and Harnessing Adversarial Examples](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Images/adversarial_example_generation/adversarial_example_generation.ipynb)
@@ -59,12 +59,12 @@
   - [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks]()
  
 - <b>08 - Meta-Learning Models</b><br>
-  - [Sine Wave Regression with MAML and Reptile]()
-  - [Few-Shot Learning with Reptile in Keras]()
-  - [Reptile with PyTorch]()
+  - [Sine Wave Regression with MAML and Reptile](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Images/meta_learning_models/sine_wave_regression_maml_reptile/sine_wave_regression_with_maml_and_reptile.ipynb)
+  - [Few-Shot Learning with Reptile in Keras](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Images/meta_learning_models/few_shot_learning_reptile_keras/few_shot_reptile_keras.ipynb)
+  - [Reptile with PyTorch](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Images/meta_learning_models/reptile_pytorch_implementation/reptile_pytorch.ipynb)
   
 - <b>09 - Modules for Convolutional Neural Nets</b><br>
-  - [SENet: Squeeze-and-Excitation Networks]()
+  - [SENet: Squeeze-and-Excitation Networks](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Images/modules_for_cnns/senet/senet.ipynb)
 
 
 ## Text
