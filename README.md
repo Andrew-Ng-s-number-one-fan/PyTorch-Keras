@@ -54,9 +54,6 @@
 - <b>07 - Advances in Few-Shot Learning</b><br>
   - [Advances in Few-Shot Learning: A Guided Tour]()
   - [Advances in Few-Shot Learning: Reproducing Results in PyTorch]()
-  - [Matching Networks: A Differentiable Nearest-Neighbours Classifier]()
-  - [Prototypical Networks: Learning Prototypical Representations]()
-  - [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks]()
  
 - <b>08 - Meta-Learning Models</b><br>
   - [Sine Wave Regression with MAML and Reptile](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Images/meta_learning_models/sine_wave_regression_maml_reptile/sine_wave_regression_with_maml_and_reptile.ipynb)
