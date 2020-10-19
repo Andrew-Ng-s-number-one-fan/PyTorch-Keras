@@ -23,7 +23,7 @@
   - [TensorBoard Tutorial](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Foundations/visualizing_tensorboard/tensorboard.ipynb)
 
 - <b>05 - Writing Custom Datasets, DataLoaders and Transforms</b><br>
-  - [Custom DataLoaders and Transforms]()
+  - [Custom DataLoaders and Transforms](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Foundations/custom_datasets_dataloaders_transforms/custom_dataset_dataloader_transform.ipynb)
 
 
 ## Image/Video
@@ -52,8 +52,8 @@
   - [Siamese Networks Tutorial (Keras)](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/domain_adaptation/siamese_net_tutorial/keras_siamese_net.ipynb)
   
 - <b>07 - Advances in Few-Shot Learning</b><br>
-  - [Advances in Few-Shot Learning: A Guided Tour]()
-  - [Advances in Few-Shot Learning: Reproducing Results in PyTorch]()
+  - [Advances in Few-Shot Learning: A Guided Tour](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Images/advanced_fsl/advanced_in_fsl_guided_tour.ipynb)
+  - [Advances in Few-Shot Learning: Reproducing Results in PyTorch](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Images/advanced_fsl/advanced_in_fsl_reproduceable_results.ipynb)
  
 - <b>08 - Meta-Learning Models</b><br>
   - [Sine Wave Regression with MAML and Reptile](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Images/meta_learning_models/sine_wave_regression_maml_reptile/sine_wave_regression_with_maml_and_reptile.ipynb)
