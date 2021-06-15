@@ -28,7 +28,7 @@
 
 ## Learning PyTorch Lightning
 - <b>01 - Introduction to Pytorch Lightning</b><br>
-  - [Hello world with MNIST]()
+  - [Hello World with MNIST]()
   - [PyTorch Lightning DataModules]()
   - 
 
