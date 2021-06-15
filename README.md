@@ -28,10 +28,10 @@
 
 ## Learning PyTorch Lightning
 - <b>01 - Introduction to Pytorch Lightning</b><br>
-  - [Hello World with MNIST]()
-  - [PyTorch Lightning DataModules]()
-  - [CIFAR10 ~94% Acc Baseline Tutorial]()
-  - [Basic GAN Tutorial]()
+  - [Hello World with MNIST](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/PyTorch_Lightning/mnist-hello-world.ipynb)
+  - [PyTorch Lightning DataModules](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/PyTorch_Lightning/data-modules.ipynb)
+  - [CIFAR10 ~94% Acc Baseline Tutorial](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/PyTorch_Lightning/cifar10-baseline.ipynb)
+  - [Basic GAN Tutorial](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/PyTorch_Lightning/basic-gan.ipynb)
 
 ## Image/Video
 
