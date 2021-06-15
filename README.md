@@ -30,7 +30,8 @@
 - <b>01 - Introduction to Pytorch Lightning</b><br>
   - [Hello World with MNIST]()
   - [PyTorch Lightning DataModules]()
-  - 
+  - [CIFAR10 ~94% Acc Baseline Tutorial]()
+  - [Basic GAN Tutorial]()
 
 ## Image/Video
 
