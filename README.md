@@ -52,6 +52,7 @@
   - [Conditional GAN in Keras](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Images/generative_adversarial_nets/conditional_gan_in_keras.ipynb)
   - [Wasserstein GAN in PyTorch](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Images/generative_adversarial_nets/wgan_in_pytorch.ipynb)
   - [Video Generation with TGAN](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Videos/video_generation_with_TGAN.ipynb)
+  - [ProteinGAN: Expanding functional protein sequence space using generative adversarial networks]()
 
 - <b>06 - Domain Adaptation Tutorial</b><br>
   - [Introduction to Few-Shot Learning and Meta Learning](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Images/domain_adaptation/intro_few_shot_meta_learning/intro_few_shot_meta_learning.ipynb)
