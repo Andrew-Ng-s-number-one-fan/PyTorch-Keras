@@ -54,7 +54,7 @@
   - [Video Generation with TGAN](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Videos/video_generation_with_TGAN.ipynb)
   - [ProteinGAN: Expanding Functional Protein Sequence Space Using Generative Adversarial Networks](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Images/generative_adversarial_nets/protein_gan.ipynb)
   - [SN-GAN: Spectrally Normalized Generative Adversarial Networks](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Images/generative_adversarial_nets/sn-gan.html)
-  - [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets]()
+  - [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Images/generative_adversarial_nets/info_gan.html)
 
 - <b>06 - Domain Adaptation Tutorial</b><br>
   - [Introduction to Few-Shot Learning and Meta Learning](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Keras/blob/master/Notebooks/Images/domain_adaptation/intro_few_shot_meta_learning/intro_few_shot_meta_learning.ipynb)
